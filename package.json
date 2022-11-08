@@ -1,7 +1,7 @@
 {
   
   "name": "app",
-  "homagepage": "https://github.com/Majeed-hub/react-app-2/blob/master/public/index.html",
+  "homepage": "https://github.com/Majeed-hub/react-app-2/blob/master/public/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
