@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Majeed-hub/react-app-2/precache-manifest.f04752db67bc51bd74188501473a57d0.js"
+  "/iDemy-website/precache-manifest.11a9225efe4c02383c4c1a4211760411.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Majeed-hub/react-app-2/index.html", {
+workbox.routing.registerNavigationRoute("/iDemy-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
